@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @anshul200527
-- 👀 I’m interested in 
-- 🌱 I’m currently pursuing BTECH CSE
-- 💞️ I’m looking to collaborate on CODING CHALLENGES
-- 📫 How to reach me MSG ME ON MY IG
-- 😄 Pronouns: HE/HIM
+-  I’m interested in 
+-  I’m currently pursuing BTECH CSE
+-  I’m looking to collaborate on CODING CHALLENGES
+-  How to reach me MSG ME ON MY IG
+-  Pronouns: HE/HIM
 
 
 <!---
