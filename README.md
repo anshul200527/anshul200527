@@ -1,11 +1,50 @@
-- 👋 Hi, I’m Anshul
- I’m currently pursuing BTECH CSE
- I’m looking to collaborate on CODING CHALLENGES
--  Linked in-https://www.linkedin.com/in/anshulbahuguna07/
+<h1 align="center">Hi 👋, I'm Anshul Bahuguna</h1>
 
+<h3 align="center">
+Software Developer | Cloud & DevOps Enthusiast | OCI Certified
+</h3>
 
+---
 
-<!---
-anshul200527/anshul200527 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech Computer Science Engineering (2022-2026)
+
+ Oracle Cloud Infrastructure DevOps Certified Professional
+
+ Full Stack Developer
+
+ Learning Machine Learning
+
+ Interested in Software Development, Cloud and DevOps
+
+📫 Reach me at:anshulbahuguna27@gmail.com
+
+🔗 LinkedIn:
+https://linkedin.com/in/anshulbahuguna07
+
+---
+
+## Tech Stack
+
+### Languages
+Python • Java • C++ • JavaScript
+
+### Frontend
+React.js • Angular • HTML • CSS
+
+### Backend
+Django • Node.js • Express.js
+
+### Database
+MySQL • SQLite
+
+### DevOps & Cloud
+Git • GitHub • Docker • Jenkins • OCI
+
+---
+
+## Current Focus
+
+- Machine Learning
+- DevOps
+- Full Stack Development
+- Cloud Computing
