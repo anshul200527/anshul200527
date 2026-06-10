@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/anshul200527/anshul200527/main/banner.png" />
 </p>
-<h1 align="center">Hi, I'm Anshul Bahuguna</h1>
 
-<h3 align="center">Software Developer | Cloud & DevOps Enthusiast | Machine Learning Learner</h3>
 
 <p align="center">
   <a href="https://github.com/anshul200527">
